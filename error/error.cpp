@@ -89,7 +89,6 @@ int main()
 
     std::cout << "code1 code(): " << code1.value() << std::endl;
     std::cout << "code1 name(): " << code1.category().name() << std::endl;
-    std::cout << "code1 name(): " << code1.what() << std::endl;
 
     return 0;
 }
